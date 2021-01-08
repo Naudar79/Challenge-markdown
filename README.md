@@ -23,8 +23,10 @@ Favorite food | Européenne et Asiatique
 
 ## Vous pouvez toujours compter sur moi quand vous avez un coup de mou ou qu'il faut réfléchir ensemble à de nouvelles solutions. 
 
-## J'aime porter des kilts quand la situation et le temps me le permet !!
+## Une histoire fun sur moi 
+J'aime porter des kilts quand la situation et le temps me le permet !!
 
-### Toujours aller de l'avant !!
+### Ma phrase
+Toujours aller de l'avant !!
 
-<<[previous](https://laura-vln.github.io/challenge-markdown/)||WANT ARNAUD||[next](https://github.com/Michael-Zerghe/challenge-markdown/blob/main/Challenge.md)>>
+<< [previous](https://laura-vln.github.io/challenge-markdown/) || WANT ARNAUD || [next](https://github.com/Michael-Zerghe/challenge-markdown/blob/main/Challenge.md) >>
