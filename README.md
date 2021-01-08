@@ -11,8 +11,8 @@ Birthday | 16/08
 Gender | Mâle
 Favorite color | Orange
 Favorite food | Européenne et Asiatique
-| Pinneapple on pizza | <ul><li>- [ ] yes</li><li>- [x] no</li></ul> | 
-> Are you creasyyyyyyyyyyyyyyyyyyyyyy !!!!!!!!!!!!!!!!!!!!
+| Pinneapple on pizza | [ ] yes - [x] no | 
+> Pinneapple on pizza... Are you creasyyyyyyyyyyyyyyyyyyyyyy !!!!!!!!!!!!!!!!!!!!
 
 * Me balader avec mes chiens
 * Gaming
@@ -27,4 +27,4 @@ Favorite food | Européenne et Asiatique
 
 ### Toujours aller de l'avant !!
 
-<<[previous]()||WANT ARNAUD||[next](https://github.com/Michael-Zerghe/challenge-markdown/blob/main/Challenge.md)>>
+<<[previous](https://laura-vln.github.io/challenge-markdown/)||WANT ARNAUD||[next](https://github.com/Michael-Zerghe/challenge-markdown/blob/main/Challenge.md)>>
