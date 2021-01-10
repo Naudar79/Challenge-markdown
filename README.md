@@ -11,8 +11,8 @@ Birthday | 16/08
 Gender | Mâle
 Favorite color | Orange
 Favorite food | Européenne et Asiatique
-| Pinneapple on pizza | [ ] yes - [x] no | 
-> Pinneapple on pizza... Are you creasyyyyyyyyyyyyyyyyyyyyyy !!!!!!!!!!!!!!!!!!!!
+| Pinneapple on pizza | Never !! | 
+> Pinneapple on pizza... Are you creazyyyyyyyyyyyyyyyyyyyyyy !!!!!!!!!!!!!!!!!!!!
 
 * Me balader avec mes chiens
 * Gaming
